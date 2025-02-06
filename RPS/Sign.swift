@@ -47,5 +47,6 @@ enum Sign {
                 return .win
             }
         }
+        return .lose
     }
 }
