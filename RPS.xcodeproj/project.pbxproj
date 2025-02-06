@@ -14,6 +14,7 @@
 		3FFDE0E92D54F103003DAF84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFDE0E82D54F103003DAF84 /* Assets.xcassets */; };
 		3FFDE0EC2D54F103003DAF84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FFDE0EA2D54F103003DAF84 /* LaunchScreen.storyboard */; };
 		3FFDE0F42D54F2BA003DAF84 /* Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFDE0F32D54F2BA003DAF84 /* Sign.swift */; };
+		3FFDE0F62D54F5E3003DAF84 /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFDE0F52D54F5E3003DAF84 /* GameState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3FFDE0EB2D54F103003DAF84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FFDE0ED2D54F103003DAF84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FFDE0F32D54F2BA003DAF84 /* Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sign.swift; sourceTree = "<group>"; };
+		3FFDE0F52D54F5E3003DAF84 /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				3FFDE0E12D54F101003DAF84 /* SceneDelegate.swift */,
 				3FFDE0E32D54F101003DAF84 /* ViewController.swift */,
 				3FFDE0E52D54F101003DAF84 /* Main.storyboard */,
+				3FFDE0F52D54F5E3003DAF84 /* GameState.swift */,
 				3FFDE0F32D54F2BA003DAF84 /* Sign.swift */,
 				3FFDE0E82D54F103003DAF84 /* Assets.xcassets */,
 				3FFDE0EA2D54F103003DAF84 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				3FFDE0E42D54F101003DAF84 /* ViewController.swift in Sources */,
 				3FFDE0E02D54F101003DAF84 /* AppDelegate.swift in Sources */,
+				3FFDE0F62D54F5E3003DAF84 /* GameState.swift in Sources */,
 				3FFDE0F42D54F2BA003DAF84 /* Sign.swift in Sources */,
 				3FFDE0E22D54F101003DAF84 /* SceneDelegate.swift in Sources */,
 			);
