@@ -1,4 +1,5 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12452/badge)](https://www.bestpractices.dev/projects/12452)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/JaryCastro/RPS/badge)](https://scorecard.dev/viewer/?uri=github.com/JaryCastro/RPS)
 Rock, Paper, Scissors app I made as a project for an Apple Swift course.
 Basically the computer randomly chooses one of the three options and lets you choose your own action.
 After that, the app checks who won and displays it letting you play again.
